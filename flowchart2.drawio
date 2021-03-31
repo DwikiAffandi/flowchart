@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T03:20:48.858Z" agent="5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="MzPbgZlFnr21cx7C0UV9" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T03:21:21.283Z" agent="5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Z6y23zYqw-36VYd6Ytht" version="14.5.1" type="github">
   <diagram id="ELVYom4i2Slu9gI7OlAC" name="Halaman-1">
     <mxGraphModel dx="1157" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
         </mxCell>
         <mxCell id="EsS6LK8W0FBGmzYkAqXD-26" value="Gagal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="EsS6LK8W0FBGmzYkAqXD-25">
           <mxGeometry x="0.087" y="2" relative="1" as="geometry">
-            <mxPoint x="69.07" as="offset" />
+            <mxPoint x="2.009999999999991" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EsS6LK8W0FBGmzYkAqXD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EsS6LK8W0FBGmzYkAqXD-27" target="EsS6LK8W0FBGmzYkAqXD-18">
